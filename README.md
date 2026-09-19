@@ -1,35 +1,33 @@
 # ELECTRONIC GREETING CARD WITH LED USING COIN CELL
 
-**DESCRIPTION** :
+# ELECTRONIC GREETING CARD WITH LED USING COIN CELL
 
-A Simple greeting card with an led circuit that produces a glowing effect using a coin cell battery.
+## DESCRIPTION
+An interactive greeting card project that utilizes a simple electronic circuit powered by a coin cell battery to light up an LED.
 
-**MATERIALS REQUIRED**
+## MATERIALS REQUIRED
+* LED
+* COIN CELL BATTERY (3V)
+* COPPER TAPE
+* WIRE
+* RESISTOR
+* CHART OR CARD SHEET
 
-\~LED  
-\~COIN CELL BATTERY \[3V]  
-\~FOIL PAPER  
-\~TAPE  
-\~GLUE  
-\~COLOUR A4 SHEET
+## PROCEDURE
+1. Fix the LED at the center of the chart paper.
+2. Connect the LED to the coin cell battery with correct polarity.
+3. Stick the copper tape on the path where current flows.
+4. Check whether the circuit works safely.
 
-**PROCEDURE**
+## WORKING
+The battery supplies the DC power to the circuit. When the circuit closes, current flows from the battery through the resistor and illuminates the LED.
 
-\~Place the LED at the centre of the colour A4 paper  
-\~Connect the LED to the coin coil battery with correct polarity  
-\~Secure the connection using tape and foil paper  
-\~Complete the circuit and check the led glow
-
-**WORKING**
-
-The battery supplies the DC power to the circuit.When the circuit is completed ,current flow  through the led, causing to emit light.
-
-**NOTES**
-
-\~Connect the led with correct polarity  
-\~Use a resistor to limit current  
-\~Avoid short-circuiting the battery  
-\~Ensure all connections are tight and secure
+## NOTES
+* Connect the LED with correct polarity.
+* Use a resistor to limit current.
+* Avoid short-circuiting the battery.
+* Ensure all connections are tight and secure.
+*
 
 
 
