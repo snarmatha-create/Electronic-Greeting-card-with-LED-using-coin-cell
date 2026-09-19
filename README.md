@@ -1,7 +1,5 @@
 # ELECTRONIC GREETING CARD WITH LED USING COIN CELL
 
-# ELECTRONIC GREETING CARD WITH LED USING COIN CELL
-
 ## DESCRIPTION
 An interactive greeting card project that utilizes a simple electronic circuit powered by a coin cell battery to light up an LED.
 
