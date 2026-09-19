@@ -35,8 +35,8 @@ The battery supplies the DC power to the circuit.When the circuit is completed ,
 
 **SIMULATION  MODEL**
 
-![Greeting Card](Greeting%20card%20roject.jpg)
+![Greeting Card](Greeting%20card%20project.jpg)
 
 **GREETING CARD**  
 
-![LED Simulation](LED%20simulation.jg)
+![LED Simulation](LED%20simulation.jpg)
